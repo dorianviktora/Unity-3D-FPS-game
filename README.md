@@ -8,7 +8,7 @@ The game runs on the Unity engine. Download link: ...
 
 ## Code
 
-If you want to check the functionality of the game, go to: [Assets/C#/](./Assets/C#/) folder.
+If you want to check the functionality of the game, go to: [Assets/C#/](./Assets/Code/) folder.
 
 ## Design
 
