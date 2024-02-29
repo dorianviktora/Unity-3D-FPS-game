@@ -3,12 +3,12 @@ It is a simple game created in Unity using ragdoll physics. The player earns poi
 
 ![aktivni-zombie-obrazek](https://github.com/dorianviktora/Unity-3D-FPS-game/assets/159776059/a95109f3-877e-45d2-95c4-20a92aa41e01)
 
-# DOWNLOAD GAME
-The game runs on the Unity engine. Download link: ...
-
-## Code
+# Code
 
 If you want to check the functionality of the game, go to: [Assets/Code/](./Assets/Code/) folder.
+
+# DOWNLOAD GAME
+The game runs on the Unity engine. Download link: "not available at this moment"
 
 ## Design
 
