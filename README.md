@@ -7,7 +7,7 @@ It is a simple game created in Unity using ragdoll physics. The player earns poi
 
 If you want to check the functionality of the game, go to: [Assets/Code/](./Assets/Code/) folder.
 
-# DOWNLOAD GAME
+## DOWNLOAD GAME
 The game runs on the Unity engine. Download link: "not available at this moment"
 
 ## Design
