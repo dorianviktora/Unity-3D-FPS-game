@@ -76,7 +76,7 @@ public class Ragdoll : MonoBehaviour
 		{
 			nav.SetDestination(target.position);
 
-			//Debug.Log("RAGDOLL JE MIMO ATTACK RANGE");
+			//Debug.Log("Ragdoll is out of attack range");
 			animator.SetBool("isPunching", false);
 			animator.SetBool("isWalking", true);
 		}
@@ -104,7 +104,6 @@ public class Ragdoll : MonoBehaviour
 
 		//rigidbody1 = zombie.GetComponent<Rigidbody>();
 		//rigidbody1.isKinematic = false;
-
 		//rigidbody1.AddForce(-transform.forward * 1500);
 
 		Destroy(collider1);

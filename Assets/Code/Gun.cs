@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// COPY OF AUTOGUN, TODO: Gun parent of autogun
+
 public class Gun : MonoBehaviour
 {
     public float damage = 20f;

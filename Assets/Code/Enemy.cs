@@ -36,8 +36,6 @@ public class Enemy : MonoBehaviour
 		//attack player
 		if(enemyHealth > 0 && distance <= attackRange && Time.time >= nextTimeToAttack)
 		{
-			//Debug.Log("funguje to");
-
 			nextTimeToAttack = Time.time + 1f / attackRate;
 			playerStats.TakePlayerDamage(20);
 		}
@@ -60,7 +58,6 @@ public class Enemy : MonoBehaviour
 	}
 	void Die()
 	{
-		Debug.Log("Zombie je mrtvej");
 		nav.enabled = false;
 
 		rb = zombie.GetComponent<Rigidbody>();
